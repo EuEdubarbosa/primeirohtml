@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(90deg, #FFFFFF, #444444);
+}
+h1{
+    color: darkred;
+    font-size: 100px;
+}
+h2{
+    color: darkred;
+    font-size: 75px;
+}
+p{
+    font-size: 50px;
+}

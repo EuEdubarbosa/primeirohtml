@@ -1,0 +1,17 @@
+h1 {
+    color: darkred;
+    font-size: 100px;
+}
+
+body {
+    background: linear-gradient(90deg, #ffffff, #444444)
+}
+
+a {
+    color: rgb(0, 60, 255);
+    background-attachment: fixed;
+}
+
+li {color: rgb(0, 0, 0);
+}
+ 

@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(90deg, #FFFFFF, #444444);
+}
+.opa img {
+    width: 300px;
+    height: 300px;
+    background-attachment: fixed;
+}
+p{
+    font-size: 50px;
+}
+h1{
+    color: darkred;
+    font-size: 100px;
+}
